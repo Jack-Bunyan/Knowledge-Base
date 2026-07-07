@@ -20,3 +20,5 @@ The main purpose of the Scintillation Crystal is to convert the high energy gamm
 These tend to be optimised for the detection of the [[Tc99m]] isotope, which has a gamma ray emission of 140.5keV, as this is the most frequently used isotope within nuclear medicine.
 
 [[Cosmi et al. - 2024 - NaI gamma camera performance for high energies Effects of crystal thickness, photomultiplier tube g.pdf]]
+
+The mechanism behind 
