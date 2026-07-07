@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: jack-bunyan.github.io
+  baseUrl: jack-bunyan.github.io/Knowledge-Base
   ignorePatterns:
     - private
     - templates
