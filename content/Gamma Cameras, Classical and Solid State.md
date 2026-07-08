@@ -43,3 +43,16 @@ There are 4 main components of the photo-multiplier tube
 - Focusing Electrode: directs the electron produced at the photo-cathode towards the dynodes 
 - Dynodes: Exponentially increase the number of electrons at each event, amplifying signal
 - Anode: Measures the total number of electrons produced, proportional to the original number
+
+## Electronics
+The signals produced by the photo-multiplier tubes are converted into three distinct pulses:
+- X: x-coordinate of the event
+- Y: y-coordinate of the event
+- Z: total signal
+
+The actual layout of a gamma camera collimator system is typically a hexagonal array, due to the size of each individual one they do not independently represent individual pixels.  Instead, since the visible light photons spread out to adjacent PMTs, the system can perform statistical processing to find the relative intensities to different locations.
+
+# Solid State
+# JAQs
+[[Q-Anger Logic Relative vs Individual]]
+
