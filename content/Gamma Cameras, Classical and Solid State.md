@@ -27,8 +27,8 @@ The mechanism behind this is based of a Sodium Iodide Crystal doped with some Th
 Since the number of electrons that are excited and therefore the number of photons released is related to the energy of the incoming gamma photon.  
 ![[scintillation_crystal_technetrium_spectrum.png]]
 [[Aoun et al. - 2008 - Validation of the Small Animal Biospace Gamma Imager Model Using GATE Monte Carlo Simulations on the.pdf]]
-An ideal spectrum would be a single spectral line at 140keV, however, due to [[interactions]] within the crystal there are spectral features.
-- Scatter: the region from 60-100keV in the image above is due to to scatter events within both the crystal and the patient tissue.  The upper and lower bounds of this are defined by complete backscatter (lower bound) and the [[cross-section]] of the interaction (upper bound)
+An ideal spectrum would be a single spectral line at 140keV, however, due to [[On Particle Interactions#Photons|Interactions]] within the crystal there are spectral features.
+- Scatter: the region from 60-100keV in the image above is due to to scatter events within both the crystal and the patient tissue.  The upper and lower bounds of this are defined by complete backscatter (lower bound) and the [[On Particle Interactions#Cross-section|Cross-section]] of the interaction (upper bound)
 - Pile-up: if two events occur at similar times in a similar area the amplitudes of the pulses will add together, resulting in a double height pulse.
 - Thermal-noise: while not necessarily a result of the crystal, thermal electrons will be picked up, causing a spike near 0keV
 
@@ -51,6 +51,8 @@ The signals produced by the photo-multiplier tubes are converted into three dist
 - Z: total signal
 
 The actual layout of a gamma camera collimator system is typically a hexagonal array, due to the size of each individual one they do not independently represent individual pixels.  Instead, since the visible light photons spread out to adjacent PMTs, the system can perform statistical processing to find the relative intensities to different locations.
+
+The electronics also allow for selection of what energy bands are accepted for creating the image, this is typically done as 10% around the peak energy of the isotope, and is done to reduce the impact of scatter on the image, as these would appear to occur from a different location within the patient, reducing the [[Resolution]].
 
 # Solid State
 # JAQs

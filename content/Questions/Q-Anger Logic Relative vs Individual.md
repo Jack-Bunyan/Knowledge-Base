@@ -6,6 +6,7 @@ tags:
   - Physics
 Asked: JH
 perma: Q-AngerLogicRelativeVsIndividual
+date: 2026-07-07
 ---
 This was a question regarding how [[Gamma Cameras, Classical and Solid State#Electronics|Anger Logic]] functions given the low number of events that are actually occurring.
 
