@@ -7,6 +7,5 @@ Goal of this project is to serve as a learning resource for Medical Physics STPs
 
 Made to be used as an aid to teaching.
 
-Nothing here is Gospel
 
 Made Using [Quartz](https://quartz.jzhao.xyz)
