@@ -10,7 +10,8 @@ Photon interactions with matter consist of 3 main kinds:
 - Photoelectric effect
 - Compton Scatter
 - Elastic Scatter
-
+![[Photon-cross-section-RTBible.png]]
+Overall, this leads to 3 main regions in most materials, a low energy region where the photo-electric effect is dominant, and intermediate region where Compton scatter is dominant, and a final region where pair production becomes dominant.
 ## Pair-production
 ![[feynman-Pair-Production.png]]
 Pair production is only possible for photons that have a total mass greater than 1.022MeV (twice the fundamental mass of an electron).  When this is reached there is a probability that when interacting with the electric field of a charge they will produce a positron and electron.
@@ -37,7 +38,11 @@ For photon energies lower than the electron mass, the cross section of photon sc
 Rayleigh and Thomspon scatter are both forms of elastic scattering from charges.  In the case of Rayleigh scatter this is a result of scatter from an entire atom, whereas Thompson is from an unbound electron.  The cross-section of Rayleigh is proportional to the inverse square of energy ($\sigma_{rs}\propto E^{-2}$), whereas the cross section of Thompson is more complex the correlation is slightly stronger than the inverse square.
 
 # Electrons
-
+The majority source of energy loss in charged particle interactions are collisions, electrons being the lightest of these charged particles have 3 main interactions:
+- Moller scattering- collisions with bound electrons
+- Bremsstrahlung- radiative losses from charge acceleration
+- Elastic scattering- mostly a result of collisions with heavy charged particles
+![[Electron-Stopping-Power-RTBible.png]]
 
 # Cross-section
 
