@@ -1,3 +1,13 @@
+---
+title: Links to all of the notes previously in Charlie's Notion
+permalink: CharlieNotes
+tags:
+  - Anatomy
+  - Imaging
+  - Nuclear_Medicine
+  - CB_Notion
+---
+
 #CB_Notion
 
 | Diagnostic                                       | Anatomy & Physiology                        | Technical                                                                                     |
