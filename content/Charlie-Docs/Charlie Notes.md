@@ -1,0 +1,32 @@
+#CB_Notion
+
+| Diagnostic                                       | Anatomy & Physiology                        | Technical                                                                                     |
+| ------------------------------------------------ | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [[Amyloid]]                                      | [[Anatomy & Physiology-Bone & Skeleton]]    | [[Calibrators/Monitors]]                                                                      |
+| [[Bone Marrow]]                                  | [[Anatomy & Physiology-Heart]]              | [[CT\|Computed Tomography (CT)]]                                                              |
+| [[Chylothorax]]                                  | [[Anatomy & Physiology-Kidneys]]            | [[Gamma Cameras, Classical and Solid State#Solid State\|CZT Gamma Camera]]                    |
+| [[DaTScan]]                                      | [[Biodistribution of Radiopharmaceuticals]] | [[IRR & IRMER Regulations]]                                                                   |
+| [[DMSA]]                                         |                                             | [[Monitors Daily QC]]                                                                         |
+| [[Gastric Emptying - Solid]]                     |                                             | [[Pharmaceutical Doses]]                                                                      |
+| [[Gastro-intestinal Bleed]]                      | Therapies                                   | [[Radiation Units]]                                                                           |
+| [[GFR]]                                          | [[I-131 Ablation Therapy]]                  | [[Roles and Responsibilities (RPA/RWA/RPS)]]                                                  |
+| [[Hepatobiliary Iminodiacetic Acid (HIDA) Scan]] | [[Radium]]                                  | [[Sample Counter (and QC)]]                                                                   |
+| [[I-123 MIBG Scan]]                              |                                             | [[Gamma Cameras, Classical and Solid State#Scintillation Camera\|Scintillation Gamma Camera]] |
+| [[Lung VQ]]                                      |                                             | [[Technetium-99m Generator]]                                                                  |
+| [[Lymphoscintigram]]                             | No Category                                 | [[Word Bingo]]                                                                                |
+| [[Meckel's Diverticulum Scan]]                   | [[Legislation/CT QC]]                       |                                                                                               |
+| [[Myocardial Perfusion (Stress/Rest)]]           | [[Wednesday Funday Meeting Notes]]          |                                                                                               |
+| [[Parathyroid (subtraction)]]                    |                                             | Admin                                                                                         |
+| [[Pulmonary Aspiration Scan]]                    |                                             | [[Bone Scans]]                                                                                |
+| [[Radionuclide Ventriculography]]                |                                             | [[Stress/Rests]]                                                                              |
+| [[SeHCAT]]                                       |                                             |                                                                                               |
+| [[Sentinel Lymph Node Injection/Imaging]]        |                                             |                                                                                               |
+| [[Small Bowel Transit]]                          |                                             |                                                                                               |
+| [[Somatostatin (Octreotide) Receptor Imaging]]   |                                             |                                                                                               |
+| [[Tc-99m vs Thallium]]                           |                                             |                                                                                               |
+| [[Thallium Redistribution]]                      |                                             |                                                                                               |
+| [[Three Phase Bone]]                             |                                             |                                                                                               |
+| [[Thyroid]]                                      |                                             |                                                                                               |
+| [[White Cell Scan]]                              |                                             |                                                                                               |
+| [[Whole Body Bone]]                              |                                             |                                                                                               |
+| [[Whole Body Iodine]]                            |                                             |                                                                                               |
