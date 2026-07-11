@@ -20,7 +20,7 @@ tags:
 | [[Gastric Emptying - Solid]]                     |                                                                 | [[Pharmaceutical Doses]]                                                                      |
 | [[Gastro-intestinal Bleed]]                      | Therapies                                                       | [[Radiation Units]]                                                                           |
 | [[GFR]]                                          | [[I-131 Ablation Therapy]]                                      | [[Roles and Responsibilities (RPA/RWA/RPS)]]                                                  |
-| [[Hepatobiliary Iminodiacetic Acid (HIDA) Scan]] | [[Radium]]                                                      | [[Sample Counter (and QC)]]                                                                   |
+| [[Hepatobiliary Iminodiacetic Acid (HIDA) Scan]] | [[Radium#Ra-223 Therapy\|Radium]]                               | [[Sample Counter (and QC)]]                                                                   |
 | [[I-123 MIBG Scan]]                              |                                                                 | [[Gamma Cameras, Classical and Solid State#Scintillation Camera\|Scintillation Gamma Camera]] |
 | [[Lung VQ]]                                      |                                                                 | [[Technetium-99m Generator]]                                                                  |
 | [[Lymphoscintigram]]                             | No Category                                                     | [[Word Bingo]]                                                                                |
@@ -36,7 +36,7 @@ tags:
 | [[Tc-99m vs Thallium]]                           |                                                                 |                                                                                               |
 | [[Thallium Redistribution]]                      |                                                                 |                                                                                               |
 | [[Three Phase Bone]]                             |                                                                 |                                                                                               |
-| [[Thyroid]]                                      |                                                                 |                                                                                               |
+| [[Iodine#I-123 Scans\|Thyroid]]                  |                                                                 |                                                                                               |
 | [[White Cell Scan]]                              |                                                                 |                                                                                               |
 | [[Whole Body Bone]]                              |                                                                 |                                                                                               |
 | [[Whole Body Iodine]]                            |                                                                 |                                                                                               |
