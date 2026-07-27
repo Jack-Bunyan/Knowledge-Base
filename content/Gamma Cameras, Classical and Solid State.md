@@ -49,6 +49,7 @@ An ideal spectrum would be a single spectral line at 140keV, however, due to [[O
 [[The Gamma Camera-A comprehensive Guide_Richard Lawson_Crystals.pdf]]
 
 ## Photo-multiplier Tube
+![[ImageOfPMTsInDisco.png]]
 Though the crystal produces more than one photon, due to the large loss of signal from the collimator, cross-section of interaction, attenuation, and inverse square law.  In order to increase the total signal of the event the visible light photons are fed into a photo-multiplier tube.
 ![[PMT-image-self-1.jpg|330]]![[PMT-image-self-2.jpg|330]] 
 ![[PMT diagram structure charlie.png]]
@@ -72,8 +73,11 @@ The signals produced by the photo-multiplier tubes are converted into three dist
 The actual layout of a gamma camera collimator system is typically a hexagonal array, due to the size of each individual one they do not independently represent individual pixels.  Instead, since the visible light photons spread out to adjacent PMTs, the system can perform statistical processing to find the relative intensities to different locations.
 
 The electronics also allow for selection of what energy bands are accepted for creating the image, this is typically done as 10% around the peak energy of the isotope, and is done to reduce the impact of scatter on the image, as these would appear to occur from a different location within the patient, reducing the [[Resolution]].
-![[scintillator signal scale.png]]
 
+
+![[scintillator signal scale.png|671]]
+
+![[Gap in Image.png]]
 # Solid State
 # JAQs
 [[Q-Anger Logic Relative vs Individual]]

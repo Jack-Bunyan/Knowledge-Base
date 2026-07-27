@@ -30,6 +30,8 @@ Performing an [[Iodine#I-123 Scan|I-123 Scan]] prior to [[Iodine#I-131 Therapy|I
 
 >This therapy is used to ablate remnant, local/distant thyroid metastases.
 
+![[I-131 Decay.png]]
+
 Iodine-131 is a radio-isotope which decays via [[Radioactive Decay#Beta Decay|Beta Decay]] into Xe-131, it has a half-life of 8 days and releases both an electron with a maximum energy of 606keV and a gamma ray of 364keV.
 
 ## NICE Guidance
@@ -95,12 +97,13 @@ Ablation to kill off any thyroid cancer cells before they have chance to differe
 
 Due to the NICE guidance surrounding how the initial imaging is performed it is likely that prior to the I-131 ablation they have **not** received a nuclear medicine scan.  Whilst the purpose of the I-131 is the beta particles that ablate the local thyroid cancer, it also has gamma emissions.
 
-Specifically when the I-131 beta decays it transitions to a Xe-131 atom, however, this is an excited state that decays near immediately with a 364keV.  After the therapy imaging is conducted using a [[Gamma Cameras, Classical and Solid State|Gamma Camera]] and high energy [[Collimator]].
+Specifically when the I-131 beta decays it transitions to a Xe-131 atom, however, one of these is an excited state that decays near immediately with a 364keV.  After the therapy imaging is conducted using a [[Gamma Cameras, Classical and Solid State|Gamma Camera]] and high energy [[Collimator]].
 
 ![[I-131 Therapy Scan.png]]
 [Image](https://www.mdpi.com/2075-4418/15/11/1438) of a patient post-treatment with non-localised iodine cancer.  Note the [[Collimator#Septal Penetration|Septal Penetration]] in image (a) due to the high energy gamma rays.
 
 # I-123 Scans
+![[I-123 Decau.png]]
 
 Iodine-123 decays via [[Radioactive Decay#Electron Capture|Electron Capture]] with a gamma ray of 159keV and a half-life of 13.2 hours.
 

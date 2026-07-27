@@ -4,6 +4,8 @@ tags:
   - CB_Notion
   - Imaging
   - Nuclear_Medicine
+wiki: https://www.wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d008-dmsa_kidey_imaging-adults
+Author: Charlie Banks
 ---
 > This scan looks at split [[Anatomy & Physiology-Kidneys|kidney]] function and can also show scarring of the kidneys.
 ![[DMSA chemical formula.png]]
@@ -60,4 +62,22 @@ Furosemide discriminates between an obstructed kidney and a normal one.
 - Detection of ectopic renal tissue, including cross-fused renal ectopia
 - Differential renal function
 - Pre-transplant donor assessment
+
+
+---
+Title: [Tubular Reabsorption of Technetium-99m-DMSA]()
+Authors: Roland Mã
+Year: 
+DOI: 
+
+---
+Title: [Dimercaptosuccinic acid: A multifunctional cost effective agent for imaging and therapy](https://ijnm.co.in/dimercaptosuccinic-acid-a-multifunctional-cost-effective-agent-for-imaging-and-therapy/)
+Authors: Jaya Shukla, BhagwantRai Mittal
+Year: 2015
+DOI: 10.4103/0972-3919.164015
+
+
+
+
+
 

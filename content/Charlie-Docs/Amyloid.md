@@ -9,6 +9,7 @@ Author: Charlie Banks
 >This scan looks at [amyloidosis](https://www.nhs.uk/conditions/amyloidosis/) of the [[Anatomy & Physiology-Heart|heart]].
 
 Current guidance from the [European Society of Cardiology](https://www.escardio.org/communities/councils/cardiology-practice/scientific-documents-and-publications/ejournal/volume-19/cardiac-amyloidosis-epidemiology-diagnosis-and-therapy/) suggests the use of [[Nuclear medicine]] imaging if biochemical testing is not successful.
+
 Locally we use DPD for this, though PYP is another popular radio-pharmaceutical that sees use.
 ![[PYP and DPD.png]]
 
@@ -46,7 +47,7 @@ The procedure involves:
 
 The scan is used to detect and assess the extent of cardiac involvement in transthyretin (ATTR) amyloidosis, which can be either hereditary or wild-type (senile systemic amyloidosis).
 
-Images are caputred using LEHRS collimator and an energy window of $140(.5)keV\pm10\%$, scatter window on discovery of $120keV\pm5\%$. 
+Images are caputred using LEHRS [[collimator]] and an energy window of $140(.5)keV\pm10\%$, scatter window on discovery of $120keV\pm5\%$. 
 # Normal Results
 - We acquire a normal [[whole body bone]] scan (DPD is a bone agent so we get our money’s worth), with [[SPECT]]/CT of chest.
 - SPECT/CT is still completed even if heart uptake is absent in scan.
@@ -64,4 +65,16 @@ Images are caputred using LEHRS collimator and an energy window of $140(.5)keV\p
 # Referral Criteria Explanation
 **Clinical suspicion of amyloidosis involving the heart**
 ![[thickened myocardium.png]]
+
+
+
+
+---
+Title: [Nuclear Imaging for the Diagnosis of Cardiac Amyloidosis in 2021](https://www.mdpi.com/2075-4418/11/6/996)
+Authors: Weijia Li, Dipan Uppal, Yu Chiang Wang, Xiaobo Xu, Damianos G. Kokkinidis, Mark I. Travin, James M. Tauras
+Year: 2021
+DOI: 10.3390/diagnostics11060996
+
+---
+
 

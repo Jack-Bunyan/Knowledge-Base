@@ -5,6 +5,7 @@ tags:
   - Imaging
   - CB_Notion
 Author: Charlie Banks
+wiki:
 ---
 >This primarily scan looks at differential diagnosis of Parkinson’s Disease through uptake in caudate and putamen.
 
@@ -99,5 +100,15 @@ DaTScans are currently quantified  automatically, measurements are given of the 
 - Slowly rotate detectors and make sure detectors aren’t touching anywhere.
 ![[Hypoxic brain injury.png]]
 *Hypoxic Brain Injury*
-![[DATScan PS.png]]
+![[DATScan PS.png|697]]
 ![[DATSCAN final image.png]]
+
+---
+Title: [Molecular Imaging of the Dopamine Transporter](https://www.mdpi.com/2073-4409/8/8/872)
+Authors: Giovanni Palermo, Roberto Ceravolo
+Year: 2019
+DOI: 10.3390/cells8080872
+
+
+
+
