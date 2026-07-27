@@ -51,10 +51,10 @@ On the morning before administration, the capsule is assayed and checked by two 
 ## Patient Preparation
 
 - If not undergoing thyrogen (rhTSH) stimulation:
-- Stop Levothyroxine (T4) for a minimum of 4 weeks prior to the therapy.
-- Stop Lyothyronine (T3) for a minimum of 2 weeks prior to the therapy.
+	- Stop Levothyroxine (T4) for a minimum of 4 weeks prior to the therapy.
+	- Stop Lyothyronine (T3) for a minimum of 2 weeks prior to the therapy.
 - If undergoing thyrogen (rhTSH) stimulation:
-- Intramuscular thyrogen (rhTSH) injections on the two days prior to the therapy
+	- Intramuscular thyrogen (rhTSH) injections on the two days prior to the therapy
 - If patients are to be treated straight after surgery without hormone replacement, a minimum of three weeks should be allowed after surgery before the 131I treatment
 - Avoid iodine medications containing iodine (e.g. antiseptics, eye drops, iodinated multivitamins or mineral supplements) for a minimum of 2 weeks
 - 8 weeks after administration of [[Iodine#Contrast|Iodinated contrast Media]] (as used in CT and X-ray procedures)
