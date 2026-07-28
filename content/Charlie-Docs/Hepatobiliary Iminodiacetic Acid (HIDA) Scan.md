@@ -11,6 +11,7 @@ tags:
 | --------------------------- | ---------------- |
 | ARSAC DRL                   | 150MBq           |
 | Local DRL                   | 150MBq           |
+| Effective Dose (mSv)        | 2.4              |
 | Paediatric Minimum Activity | 20MBq            |
 | Uptake Time                 | Immediately      |
 | Collimators                 | ELEGP            |
@@ -18,7 +19,7 @@ tags:
 - The pharmaceutical used is a variant of iminodiacetic acid (IDA) which is tightly bound to albumin.
 	- IDA-bound-albumin follows the bilirubin metabolic pathway, meaning they are extracted and excreted as if they were bilirubin.
 
-> Albumin is a protein synthesised in the liver which assits in the transport of small molecules in the bloodstream
+> Albumin is a protein synthesised in the liver which assists in the transport of small molecules in the bloodstream
 
 - Bilirubin metabolism can be summarised into four steps ([Source](https://www.sciencedirect.com/sdfe/pdf/download/eid/3-s2.0-B9781416032564500156/first-page-pdf)):
 	1) Production - IDA-bound-albumin is injected intravenously, 80% of the body’s bilirubin is produced in the bone marrow from the breakdown of haemoglobin

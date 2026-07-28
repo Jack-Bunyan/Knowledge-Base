@@ -1,0 +1,186 @@
+---
+tags:
+  - CB_Notion
+  - Imaging
+  - Nuclear_Medicine
+title: Myocardial Perfusion (Stress/Rest)
+wiki: http://wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d026-stress_mibi_myocardial_perfusion_imaging
+wiki2: https://wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d037-stress_redistribution_thallium_imaging
+---
+>This scan primarily looks at ischemia and infarction of the [[Anatomy & Physiology-Heart|myocardium]] (left ventricle)
+
+![[Tetrafosmin molecule.png]]
+# Pharmaceutical, Uptake and Dose
+
+---
+
+| Pharmaceutical              | [[Tc99m]]-Sestamibi (MIBI) (a.k.a Cardiolite) or Tetrofosmin (a.k.a Myoview) | 201-Thallium                                 |
+| --------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------- |
+| ARSAC DRL                   | 800MBq (for SPECT)                                                           | 80MBq                                        |
+| Local DRL                   | Weight Based (7MBq/kg, 1GBq limit)                                           | 80(+40)MBq                                   |
+| Effective Dose (mSv)        | 5.5(stress)/6.4(rest)                                                        | 11.2                                         |
+| Paediatric Minimum Activity | 50MBq                                                                        | N/A                                          |
+| Uptake Time                 | 30 minutes (stress)/45 minutes (rest)                                        | Immediate(Stress)/3-4 hrs for redistribution |
+| Collimators                 | LEHRS                                                                        | ELEGP                                        |
+MiBi can also be used but has a slightly higher effective dose and lower linearity than tetrafosmin which we now use locally.
+- MIBI is widely used in MPS studies, other alternatives are available:
+    -  99mTc-Tetrofosmin (Myoview)
+    -  201-Thallium
+
+|                      | 99mTc-Sestamibi                                  | 99mTc-Tetrofosmin                                | 201-Thallium                            |
+| -------------------- | ------------------------------------------------ | ------------------------------------------------ | --------------------------------------- |
+| Uptake Mechanism     | passive diffusion, negative electrical potential | passive diffusion, negative electrical potential | active transport:  <br>Na/K ATPase pump |
+| Myocyte Localisation | mitochondria                                     | mitochondria                                     | cytosol                                 |
+| Intracellular State  | bound                                            | bound                                            | free                                    |
+| Preparation          | generator & kit                                  | generator & kit                                  | cyclotron                               |
+| Cardiac Uptake %     | 1.5%                                             | 1.2%                                             | 3%                                      |
+| Myocardial Clearance | minimal                                          | minimal                                          | 4 hour physiological half-life          |
+| Body Clearance       | hepatic                                          | hepatic                                          | renal                                   |
+
+## Uptake Mechanism
+### Tc-99m
+![[Image of Mibi.png]]
+*Molecular structure of 99mTc-Sestamibi. Comprised of 99mTc bound to 6x methoxyisobutylisonitrile (MIBI) ligands, hence sesta (6x ligands) MIBI.*
+
+Uptake mechanisms for both tetrafosmin and MiBi are the same, utilising the high mitochondrial density of the myocardium.
+
+- MIBI is characterised as lipophilic and cationic.
+- It has a predilection for tissues with high mitochondrial content and negative plasma membrane potentials.
+- After intravenous injection, MIBI is passively diffused into the heart proportional to myocardial blood flow.
+    - the positively charged lipophilic molecule is attracted to the negatively charged mitochondria where it becomes bound
+        - biological half-life of the heart is ~3 hours after administration
+- Myocardial uptake is prompt, and blood clearance is rapid due to renal and hepatic excretion.
+    - liver and gallbladder activity is seen within 1 hour of injection
+        - biological half-life of the liver is ~30 minutes after administration
+    - ~27% of injected dose is excreted in urine
+    - ~33% of injected dose is excreted through faeces within 48 hours
+    - [source for figures](https://go.drugbank.com/drugs/DB09161)
+
+### Thallium-201
+
+Thallium-201 is a synthetic radio-isotope with a half-life of 3.04 days, it decays via electron capture into mercury.
+![[thalliun decay graph.png]]Whilst the decay itself produces characteristic x-rays of 160keV(10%) and 135keV(2.6%), the emissions that are used for the imaging are the characteristic x-rays of the mercury it decays into when the electrons drop into the lower orbital shells left over from the electron absorption.
+![[Emissons graph Ti-201.png]].
+Title: [Optimum energy window setting on Hg-201 x-rays photopeak for effective Tl-201 imaging]()
+Authors: Akihiro Kojima, Akihiro Takaki, Teruya Noguchi, Masanori Matsumoto, Noboru Katsuda, Seiji Tomiguchi, Yasuyuki Yamashita
+Year: 2005
+DOI: 10.1007/BF02985046
+
+Thallium is produced via the irradiation of thallium-203 with helium 3 ions, this produces lead-201 which itself will decay into thallium 201.  This has to be done in a cyclotron which restricts its production compared to generation of cheaper radio-isotopes such as generators.
+
+Unlike the mitochondrial binding mechanism which is used by the technetium based tracers, thallium uses the active transport mechanisms of the cell surface.  The thallium isotope mimics the chemical properties of the 
+
+
+## Patient Preparation
+
+---
+### Preparation from Wiki
+
+- Avoid caffeine for 12 hours prior to the appointment (A list of foods and medications that contain caffeine is shown in [Appendix 1](http://wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d026-stress_mibi_myocardial_perfusion_imaging#appendix1-foodsandmedicationswhichcontaincaffeine))
+    - caffeine blocks the same receptors (a2a) as adenosine and regadenoson, meaning a pharmacological stress could not be performed if the patient cannot exercise
+- Fast for four hours prior to the appointment time [1](http://wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d026-stress_mibi_myocardial_perfusion_imaging#refnotes:1:note1). Diabetics may eat as required. All patients should drink as normal. Patients should eat a light fatty meal or drink milk after injection.
+    - fasting fills the gallbladder with bile, ready to be used for digestion of fats. eating a fatty meal promotes emptying of the gallbladder and liver.
+    - MIBI is cleared through the hepatobiliary system, so liver/bowel overlapping the heart is common, so these steps should hopefully clear any activity away.
+- Do not take Beta Blockers ((e.g. Atenolol, Bisoprolol, Propranolol, Carvedilol, Timolol, Nebivolol) for 48 hours before the appointment. These can be taken after the stress part of the test is completed.
+    - beta blockers reduce blood pressure by making the heart beat slower and less forcefully. a stress test wants to see the heart working under pressure with high blood flow.
+    - may not be able to reach 85% of max heart rate if beta blocker has been taken.
+- Do not take dipyridamole (sometimes known as persantin or asasantin) or any other medications containing aminophylline or theophylline for 24 hours prior to the appointment
+    - dipyridamole inhibits blood clots, and may be given during a pharmacological stress
+- Take other medication as normal (bring a list of current medication to the appointment)
+### Exercise Stress Testing (EST)
+
+- This is known as a “safe” test, with serious adverse effects occurring with 1/10,000 tests.
+> The aim of the stress test is to reach 85% of the patient's maximum heart rate (MHR)
+- The stress test can be performed on a treadmill or a bike, and the patient’s must be fit enough to exercise intensely.
+![[Bruce protocol.png|570]]
+- In our department, we follow the BRUCE protocol on a treadmill, standard protocol shown above.
+    - Exercise is performed in 3-minute stages, at increasing speed and gradient, with a maximum of 7 stages. The following flowchart explains what is happening to the heart:
+![[Bruce protocol 2.png]]
+*Flowchart of body's response to EST.  Note: in CAD, stenosis limits flow of blood and oxygen to myocardium - so limited coronary flow means limited oxygen supply for the myocardium limiting the intensity and duration of exercise to be performed.*
+
+- At least 4-6 minutes of exercise is desired, and activity is injected once the patient reaches 85% of MHR.
+- Ideally, the patient would continue to exercise for 1 minute post-injection.
+    - this is to ensure the radiopharmaceutical has had time to properly localise within the myocardium under peak-stress conditions.
+- Once the patient has finished on the treadmill, the patient is observed for 3-5 minutes to check that readings return to normal as well as checking for ST-wave changes that can occur during this recovery period.
+![[quit cardiac stress.png]]
+### Pharmacological Stress Testing
+
+- This is performed instead of an EST in the following cases:
+    - cannot perform or tolerate adequate exercise
+    - patient has taken beta blocker or calcium channel blocker
+    - patient has pacemaker rhythm
+    - presence of left bundle-branch block (LBBB) which may produce septal perfusion defects
+- The two different types of pharmacological stressing agents are either described as:
+    1. coronary vasodilator - widens the coronary artery, allowing increased blood flow to myocardium.
+    2. ionotropic - causes the heart to contract with more force (positive), or can weaken the contractions (negative) which in turn widens the coronary artery.
+
+| |Adenosine|Dobutamine|Regadenoson|Dipyridamole|
+|---|---|---|---|---|
+|Type of Agonist|a2a|beta-1|a2a|a2a|
+|Category|coronary vasodilator|positive ionotropic effect|coronary vasodilator||
+|Administration|intravenous infusion|intravenous infusion|intravenous bolus|intravenous infusion|
+|Effect Duration|~6s once infusion stopped|~11 minutes|~2.3 minutes|~12 minutes|
+|Patient Preparation|no caffeine for 12 hours before|no beta blocker for 24 hours before|no caffeine for 12 hours before|no caffeine for 12 hours before|
+
+- In healthy hearts, these agents produce increased myocardial perfusion when compared to the EST, meaning a larger proportion of the dose is concentrated in the myocardium.
+- In patients with vessel stenosis, these show diminished dilation as they are already maximally dilated due to the body’s natural response to the ischemia or regional myocardial hypo perfusion.
+
+### Scan Preparation
+
+- Ensure patient has had hot drink/biscuits before imaging to help pass uptake through the gut and stop overlap.
+    - This is not required for the treadmill patients as there is little to no gut uptake.
+- Once patient is on the bed, apply three ECG stickers as per photo.
+- Ensure patient’s heart is below 160cm on the ruler as this is CT limit.
+- Strap patient in, with left arm above head and make sure detectors aren’t touching.
+- The heart should sit towards the top of the FOV with the detector as close to the left armpit as possible.
+    - Raise the bed as required and get detectors as close as possible.
+- Spin the detectors to ensure they aren’t touching on the way round.
+
+![[ECG locations.png]]
+### Waiting Times
+|Stress (Treadmill)|Stress (Pharmacological)|Rest|
+|---|---|---|
+|0 minutes|1 hour|1 hour|
+## Normal Results
+
+![[Heart lkayour myocard.png]]
+*Example of standard views for an MPS with relative anatomical position of heart.  Left to right: short axis (ant/transaxial view), vertical long axis (VLA), and horizontal long axis (HLA).*
+![[Pretty pics myocardium.png]]*A normal MPS scan, showing normal tracer distribution throughout the myocardium with no defects. Report "Normal perfusion at high exercise workload - Prognosis Good”.  The right ventricle is faintly visible in the short axis and HLA images*
+
+| |Defects on Stress & Rest|Defect only on Stress|
+|---|---|---|
+|Condition|Infarct|Ischemia|
+|Meaning|Suffered a heart attack which has killed the muscle meaning no blood flow.  <br>_**This is irreversible.**_|Muscle is viable under rest, no blood flow under stress conditions. Stent can be put in to allow blood flow. _**This is reversible.**_|
+# Referral Criteria Explanation
+
+---
+
+![[Myocardial referral criteria.png]]
+There are a lot of possible criterion for referral for this test, however the main two we currently look at are ischemia and infarct.  This imaging is also done to evaluate the potential impact of cardiotoxix medicines, for example in patients that are receiving organ donations.  It is the current [NICE reccomended](https://www.nice.org.uk/guidance/cg95/chapter/Recommendations#people-presenting-with-stable-chest-pain) non-invasive method for the investigation of myocardial ischaemia, though stress echocardiograpy and MRI are both alternatives.
+
+# Look up hibernating myocardium and stunned
+
+## Detecting Coronary Artery Disease (CAD)…
+
+## … by Localising Myocardial Ischemia (Reversible Defects)
+
+### What is it?
+
+### How do we scan for it?
+
+## … by Localising Myocardial Infarction (Non-reversible Defects)
+
+### What is it?
+
+### How do we scan for it?
+## Extras
+
+Get patient to eat something fatty which causes gallbladder to excrete bile which clears bowel uptake and get them to go for a walk.
+
+Time window most important, after too long, there is high bowel uptake.
+
+Thallium is the best heart agent for no bowel uptake.
+
+If stressing with dobutamine, dose is upped incrementally (every 3 minutes) until 85% of maximum heart rate is achieved, the MIBI can then be injected.
+
+If stressing with adenosine, inject MIBI after 3 minutes maximum blood flow through veins has been achieved.

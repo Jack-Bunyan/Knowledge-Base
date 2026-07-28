@@ -18,6 +18,7 @@ wiki:
 | --------------------------- | ------------------------ |
 | ARSAC DRL                   | 185MBq                   |
 | Local DRL                   | 150-203MBq               |
+| Effective dose(mSv)         | 4.6                      |
 | Paediatric Minimum Activity | N/A                      |
 | Uptake Time                 | 3-6 hours                |
 | Collimators                 | LEHR                     |

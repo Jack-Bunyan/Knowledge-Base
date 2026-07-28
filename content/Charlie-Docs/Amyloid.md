@@ -5,6 +5,7 @@ tags:
   - Nuclear_Medicine
   - CB_Notion
 Author: Charlie Banks
+wiki: http://www.wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d047-cardiac_amyloidosis_imaging
 ---
 >This scan looks at [amyloidosis](https://www.nhs.uk/conditions/amyloidosis/) of the [[Anatomy & Physiology-Heart|heart]].
 
@@ -17,8 +18,9 @@ Locally we use DPD for this, though PYP is another popular radio-pharmaceutical 
 
 | Pharmaceutical              | [[Tc99m]] DPD (Teceos) |
 | --------------------------- | ---------------------- |
-| ARSAC DRL                   | N/A (unlicensed)       |
+| ARSAC DRL                   | 700MBq                 |
 | Local DRL                   | 800MBq                 |
+| Effective Dose (mSv)        | 5.6                    |
 | Paediatric Minimum Activity | N/A                    |
 | Uptake Time                 | 3 hours                |
 | Collimators                 | LEHRS                  |

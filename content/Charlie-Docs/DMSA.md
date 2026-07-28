@@ -15,6 +15,7 @@ Author: Charlie Banks
 | --------------------------- | ------------------------ |
 | ARSAC DRL                   | 80MBq                    |
 | Local DRL                   | 80MBq                    |
+| Effective Dose (mSv)        | 0.7                      |
 | Paediatric Minimum Activity | 15MBq                    |
 | Uptake Time                 | 2-4 hours                |
 | [[Collimators]]             | LEHR                     |
