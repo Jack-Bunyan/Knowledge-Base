@@ -15,6 +15,7 @@ wiki: http://www.wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d017-radionucl
 | --------------------------- | ----------------------- |
 | ARSAC DRL                   | 800MBq                  |
 | Local DRL                   | 800MBq                  |
+| Effective Dose (mSv)        | 5.6                     |
 | Paediatric Minimum Activity | 80MBq                   |
 | Uptake Time                 | N/A                     |
 | Collimators                 | LEGP/ELEGP              |
@@ -28,7 +29,7 @@ wiki: http://www.wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d017-radionucl
 - Upon patient’s arrival, they are injected with stannous pyrophosphate (PYP).
     - this loads the red blood cells, through _“stannous loading”_, and allows the radioactive tracer to bind to it, thus marking red blood cells.
     - without the injection of PYP, the pertechnetate would freely diffuse in and out of erythrocytes. However, as the cells have been preloaded with the stannous ion, the [sodium pertechnetate becomes reduced](https://humanhealth.iaea.org/HHW/Radiopharmacy/VirRad/Radiolabelling_with_99mTc/chemical_processes/index.html) within the cells and becomes bound to the globin.
-    - this binding processes/mechanisms of the sodium pertechnetate to the tin loaded erythrocytes is not clearly understood.
+    - this binding processes/mechanisms of the sodium pertechnetate to the tin loaded erythrocytes is not clearly understood.  *My understanding is that the reduced pertechnetate cannot diffuse through the cell membrane as easily as the non-reduced form.*
 - Injected with pertechnetate after 30 minute uptake time of PYP, imaging can begin immediately.
     - around 20% of pertechnetate is believed to be bound to a beta chain of globin.
 
@@ -41,7 +42,7 @@ wiki: http://www.wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d017-radionucl
     - the amount of blood (%) that can be pushed out of the left ventricle is known as the left ventricle ejection fraction (LVEF).
     - it is calculated in this test with the following formula:
 
-$LVEF = ((diastolic Counts - systolicCounts)/diastolicCounts) *100$
+> 	$LVEF(\%) = ((diastolic Counts - systolicCounts)/diastolicCounts) *100$
 
 # Patient Preparation
 
@@ -104,4 +105,4 @@ $LVEF = ((diastolic Counts - systolicCounts)/diastolicCounts) *100$
     
 # Referral Criteria Explanation
 ![[RNV referral criteria.png]]
-
+While this can also be measured using the [[Myocardial Perfusion (Stress & Rest)]] imaging, the values that methodology gives are typically higher.  This is because that methodology measures the volume of the myocardial muscle and interprets the ventricle volume from that.  The differences between these methods show why it is important to interpret from equivalent measurements.

@@ -177,6 +177,9 @@ DOI: 10.2967/jnumed.121.263506
 *Example of standard views for an MPS with relative anatomical position of heart.  Left to right: short axis (ant/transaxial view), vertical long axis (VLA), and horizontal long axis (HLA).*
 ![[Pretty pics myocardium.png]]*A normal MPS scan, showing normal tracer distribution throughout the myocardium with no defects. Report "Normal perfusion at high exercise workload - Prognosis Good”.  The right ventricle is faintly visible in the short axis and HLA images*
 
+In order to capture an image with sufficient resolution, gating is done via the ECG trace, images can then be reconstructed using the ECG trace to produce video images of how the ventricle evolves over time.
+![[TypicalHeart.gif|697]]
+
 | |Defects on Stress & Rest|Defect only on Stress|
 |---|---|---|
 |Condition|Infarct|Ischemia|
