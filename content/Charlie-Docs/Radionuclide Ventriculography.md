@@ -27,7 +27,7 @@ wiki: http://www.wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d017-radionucl
 *Chemical structure of 99mTc-Pertechnetate, an anion, in a tetrahedral structure.*
 
 - Upon patient’s arrival, they are injected with stannous pyrophosphate (PYP).
-    - this loads the red blood cells, through _“stannous loading”_, and allows the radioactive tracer to bind to it, thus marking red blood cells.
+    - this loads the [[On Blood#Red Blood Cells|Red Blood Cells]], through _“stannous loading”_, and allows the radioactive tracer to bind to it, thus marking red blood cells.
     - without the injection of PYP, the pertechnetate would freely diffuse in and out of erythrocytes. However, as the cells have been preloaded with the stannous ion, the [sodium pertechnetate becomes reduced](https://humanhealth.iaea.org/HHW/Radiopharmacy/VirRad/Radiolabelling_with_99mTc/chemical_processes/index.html) within the cells and becomes bound to the globin.
     - this binding processes/mechanisms of the sodium pertechnetate to the tin loaded erythrocytes is not clearly understood.  *My understanding is that the reduced pertechnetate cannot diffuse through the cell membrane as easily as the non-reduced form.*
 - Injected with pertechnetate after 30 minute uptake time of PYP, imaging can begin immediately.
@@ -94,15 +94,12 @@ wiki: http://www.wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d017-radionucl
 ## Extras
 
 - In-vitro labelling of red blood cells (enthrocytes) has ~60% efficiency, hence the high dose.
-    
     - Previously, this scan required a QA image of the thyroid as this is where the free pertechnetate was taken up.
 - Scan is gated, 32 frames/cycle.
-    
     - Each PQRST wave is divided up into 32 sections and an image is acquired for each of these frames.
 - This can also be done as a hybrid “first-pass” study.
-    
     - Doctors in the past have said it is easier to see separation when positioning.
-    
+
 # Referral Criteria Explanation
 ![[RNV referral criteria.png]]
 While this can also be measured using the [[Myocardial Perfusion (Stress & Rest)]] imaging, the values that methodology gives are typically higher.  This is because that methodology measures the volume of the myocardial muscle and interprets the ventricle volume from that.  The differences between these methods show why it is important to interpret from equivalent measurements.
