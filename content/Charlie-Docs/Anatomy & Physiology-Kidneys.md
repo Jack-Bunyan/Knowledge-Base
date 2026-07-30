@@ -52,8 +52,8 @@ The kidneys are two bean shaped organs below the liver, with the liver itself pu
 - The substances are secreted into the tubule to leave the body as a component of urine.
 
 # Imaging
-Dynamic scans as done with [[Tc99m-MAG3]] or [[Tc99m-DTPA]] assess renal perfusion, function and drainage of the kidneys.
+Dynamic scans as done with [[Tc99m-MAG3]] or [[Tc99m#Tc99m-DTPA|Tc99m-DTPA]] assess renal perfusion, function and drainage of the kidneys.
 
 Static Cortical Imaging performed using [[Tc99m-DMSA]], this binds to the proximal tubules, evaluation which areas of the renal parenchyma are functional.
 
-Though not an imaging modality the function of the kidneys filtration rate can be evaulated using GFR measurement, this is done using either [[Cr51-EDTA]] or [[Tc99m-DTPA]].
+Though not an imaging modality the function of the kidneys filtration rate can be evaulated using GFR measurement, this is done using either [[Cr51-EDTA]] or [[Tc99m#Tc99m-DTPA|Tc99m-DTPA]].

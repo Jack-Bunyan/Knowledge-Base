@@ -144,13 +144,14 @@ DOI: 10.2967/jnumed.121.263506
     1. coronary vasodilator - widens the coronary artery, allowing increased blood flow to myocardium.
     2. ionotropic - causes the heart to contract with more force (positive), or can weaken the contractions (negative) which in turn widens the coronary artery.
 
-| |Adenosine|Dobutamine|Regadenoson|Dipyridamole|
-|---|---|---|---|---|
-|Type of Agonist|a2a|beta-1|a2a|a2a|
-|Category|coronary vasodilator|positive ionotropic effect|coronary vasodilator||
-|Administration|intravenous infusion|intravenous infusion|intravenous bolus|intravenous infusion|
-|Effect Duration|~6s once infusion stopped|~11 minutes|~2.3 minutes|~12 minutes|
-|Patient Preparation|no caffeine for 12 hours before|no beta blocker for 24 hours before|no caffeine for 12 hours before|no caffeine for 12 hours before|
+
+|                     | Adenosine                       | Dobutamine                          | Regadenoson                     | Dipyridamole                    |
+| ------------------- | ------------------------------- | ----------------------------------- | ------------------------------- | ------------------------------- |
+| Type of Agonist     | a2a                             | beta-1                              | a2a                             | a2a                             |
+| Category            | coronary vasodilator            | positive ionotropic effect          | coronary vasodilator            |                                 |
+| Administration      | intravenous infusion            | intravenous infusion                | intravenous bolus               | intravenous infusion            |
+| Effect Duration     | ~6s once infusion stopped       | ~11 minutes                         | ~2.3 minutes                    | ~12 minutes                     |
+| Patient Preparation | no caffeine for 12 hours before | no beta blocker for 24 hours before | no caffeine for 12 hours before | no caffeine for 12 hours before |
 
 - In healthy hearts, these agents produce increased myocardial perfusion when compared to the EST, meaning a larger proportion of the dose is concentrated in the myocardium.
 - In patients with vessel stenosis, these show diminished dilation as they are already maximally dilated due to the body’s natural response to the ischemia or regional myocardial hypo perfusion.

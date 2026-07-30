@@ -6,6 +6,7 @@ tags:
   - Nuclear_Medicine
 ---
 > This scan looks primarily at gallbladder function
+![[MBrIDA tc99m.png]]
 
 | Pharmaceutical              | [[Tc99m]] MBrIDA |
 | --------------------------- | ---------------- |

@@ -49,6 +49,7 @@ wiki: http://www.wiki.heynm.org.uk/doku.php?id=diagnostic:imaging:d036-sentinel_
 - Sentinel lymph node is the first lymph node that the cancer cells would be most likely to spread to.
 - Multiple nodes may be visualised, varying by individuals.
 - Should be ensured that the injection does not go into the blood, as this would pollute measurements
+- Flood source is positioned behind the patient to give information on the location of the node within the body.
 
 The patient will then head to surgery.  A gamma probe is used to identify the locations where the extracellular injection has aggregated within the nodes, allowing them to only remove nodes where the tumour would spread to immediately.  These nodes are removed and studied for markers of cancer, which would indicate non local disease.
 ## Referral Criteria Explanation

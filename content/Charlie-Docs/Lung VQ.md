@@ -19,14 +19,14 @@ According to [current guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC6039809
 
 ## Pharmaceutical and Dose
 
-| Pharmaceutical              | [[Tc99m-DTPA]] | Tc99m MAA (Pulmocis)         |
-| --------------------------- | -------------- | ---------------------------- |
-| ARSAC DRL                   | 80MBq          | 200MBq SPECT (100MBq Planar) |
-| Local DRL                   | 20MBq          | 200MBq SPECT (100MBq Planar) |
-| Effective Dose (mSv)        | 0.5            | 2.2                          |
-| Paediatric Minimum Activity | N/A            | N/A                          |
-| Uptake Time                 | Immediate      | Immediate                    |
-| Collimators                 | LEHRS          | LEHRS                        |
+| Pharmaceutical              | [[Tc99m#Tc99m-DTPA\|Tc99m-DTPA]] | Tc99m MAA (Pulmocis)         |
+| --------------------------- | -------------------------------- | ---------------------------- |
+| ARSAC DRL                   | 80MBq                            | 200MBq SPECT (100MBq Planar) |
+| Local DRL                   | 20MBq                            | 200MBq SPECT (100MBq Planar) |
+| Effective Dose (mSv)        | 0.5                              | 2.2                          |
+| Paediatric Minimum Activity | N/A                              | N/A                          |
+| Uptake Time                 | Immediate                        | Immediate                    |
+| Collimators                 | LEHRS                            | LEHRS                        |
 
 ## Patient Preparation
 
