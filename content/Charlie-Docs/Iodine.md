@@ -13,7 +13,7 @@ Iodine is an element with an element with an atomic number of 53, it has uses in
 # Biodistribution of Iodine
 #CB_Notion 
 >“You don’t deserve to be given a certificate to work as a Nuclear Medicine Technologist if you don’t know the biodistribution of Iodine.”
->	\- RC, Chief Nuclear Medicine Technologist, HUTH
+>	\- RC, Chief Nuclear Medicine Technologist
 
 P461+ in Requisites  <- I don't know what this means ask someone else
 
