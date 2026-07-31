@@ -95,11 +95,17 @@ HUTH uses Tc-99m tracers in larger patients >100kg for the attenuation resistanc
 ![[heart tracer linearity.png]]
 The difference in tracer uptake as coronary flow increases is known as its "linearity", both sestamibi and tetrofosmin have poor linearity, with their signal change reducing significantly at relatively low blood flows.  This makes it much poorer than Thallium for picking up on minor defects.
 
+Despite having superior linearity than the other technetium tracers, teboroxime has significantly higher clearance rate from the cardiac muscle, this requires a much faster imaging procedure which was previously impossible with the lower spectral sensitivity of [[Gamma Cameras, Classical and Solid State#Scintillation Crystal|sodium iodide]] gamma cameras, however using [[Gamma Cameras, Classical and Solid State#Solid State|CzT]] cameras that are now available the re-consideration of this tracer may be possible.
+
 Title: [Radiotracers to Address Unmet Clinical Needs in Cardiovascular Imaging, Part 1: Technical Considerations and Perfusion and Neuronal Imaging](https://jnm.snmjournals.org/content/63/5/649)
 Authors: John C. Stendahl, Jennifer M. Kwan, Darko Pucar, Mehran M. Sadeghi
 Year: 2022
 DOI: 10.2967/jnumed.121.263506
 
+Title: [Recent Advances in Nuclear Cardiology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4977260/)
+Authors: Won Woo Lee
+Year: 2016
+DOI: 10.1007/s13139-016-0433-x
 
 ## Patient Preparation
 
