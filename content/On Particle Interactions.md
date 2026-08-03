@@ -50,4 +50,4 @@ The Cross-section of an interaction will be dependant on the nature of the parti
 $$\Phi  =\Phi_0 e^{-n\sigma z}$$
 This comes from the idea that the rate of interaction within the medium is described as 
 $$\frac{d\Phi}{dz}=-n\sigma \times \Phi$$
-Since this is a probabilistic situation it will correlate with the total number of events when it could happen, and the more particles are in a medium the more likely an interaction.
+Since this is a probabilistic situation it will correlate with the total number of events when it could happen, and the more particles are in a medium the more likely an interaction.  
