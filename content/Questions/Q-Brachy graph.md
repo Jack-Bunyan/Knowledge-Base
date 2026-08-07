@@ -48,8 +48,8 @@ The graph below shows that the increase in dose can be replicated with a purely 
 
 The cause for this is that the capsule is the dominant attenuator in this situation; when the point is further from the source the rays that travel to the point are normal to the shielding, passing through and being attenuated by less of the material.  Closer to the source it must travel at a steeper angle, this means that a greater portion of the distance is through the attenuating material decreasing the dose.
 
-However, even when substituting the variables that are more physically correct this doesnt seem to be completely accurate.
-
+However, even when substituting the variables that are more physically correct this doesn't seem to be completely accurate (dashed red line is assuming tissue has 0 attenuation).
+<iframe src="https://www.desmos.com/calculator/cc5ftaheiz?embed" width="700" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ---
 Title: [Dosimetry of interstitial brachytherapy sources: recommendations of the AAPM Radiation Therapy Committee Task Group No. 43. American Association of Physicists in Medicine]()
