@@ -5,7 +5,7 @@ tags:
 ---
 Cancer is an uncontrollable growth of abnormal cells in the body.  These can occur anywhere within the body and start of as tumours.  A tumour is an abnormal growth of cells that can either be categorised as a benign growth—posing little harm to the individual—or a malignant—cancerous—growth.
 
-Different cancer locations will spread through different means and will respond to treatment differently.  In [[Chemotherapy]] 
+Different cancer locations will spread through different means and will respond to treatment differently.  In [[Chemotherapy]] understanding the specific tumour type is important 
 # Risk Factors
 ## Smoking
 This is the one of the most well known carcinogen and the largest single avoidable cause of premature death.  20% of all Cancer deaths can be attributed to tobacco particularly Lung cancer where it represents ~90% of all cases.  
@@ -37,7 +37,7 @@ Increased risk for:
 - [[Breast Cancer]]
 - [[HCC]]???
 
-## Execerise
+## Exercise
 You should
 
 # Infections
@@ -46,8 +46,6 @@ Bacterial and viral infections have been linked to a variety of cancers such as 
 
 ## Exposure
 Solar UV exposure is responsible for the vast majority of skin cancers, with the mechanisms behind radiation induced cancer being discussed [[Dose#Equivalent Dose|elsewhere]].  A large variety of chemical carcinogens are attributed with roughly 5% of cancer cases, ranging from chemotherapy agents to pollutants and industrial dyes.
-
-
 
 
 
