@@ -2,7 +2,7 @@
 title: Q-Brachytherapy TG43 graph
 ---
 # Background
-The TG43 graph shows how the dose rate from a [[Brachytherapy#HDR|HDR Brachytherapy]] source varies with the distance from the source.  This graph does not take into effect the [[Dose Distribution#Build-up|Build-up]] region, yet despite this produces a build-up region to peak—as well as insignificance of this in the keV region, as well as a smaller region at the centre of the region where dose falls off.  
+The TG43 graph shows how the dose rate from a [[Brachytherapy#HDR|HDR Brachytherapy]] source varies with the distance from the source.  This graph does not take into effect the [[Dose#Build-up|Build-up]] region, yet despite this produces a build-up region to peak—as well as insignificance of this in the keV region, as well as a smaller region at the centre of the region where dose falls off.  
 ![[TG43 graph.png]]
 
 ![[TG43 Diagram.png]]
