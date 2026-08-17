@@ -63,7 +63,10 @@ While the DLP of a scan is calculated from the product of CTDI and length.
 An important aspect to consider during dose optimisation is the penumbra of the field the beam, though it does not provide useful imaging information, the beam is not perfectly contained within the length that is being scanned, this means that as the beam width decreases the CTDI of the scan will increase, as the penumbra will not decrease linearly with the dose from the usable portion of the beam($\frac{x+P}{x}$).
 # Other Technologies
 ## 4D
-Gating of imaging is an important aspect of imaging, by seperating frames of an image by their location within a periodic process e.g. heart beats of breaths.
+Gating of imaging is an important aspect of imaging, by separating frames of an image by their location within a periodic process e.g. heart beats of breaths.  This can be done through very low pitches to acquire a large amount of data from each of the axial slices, or through an axial scan (0 pitch).
+
+In radiotherapy we typically use [i4DCT](https://pubmed.ncbi.nlm.nih.gov/32115724/) algorithms for our 4D acquisitions, this is an axial acquisition procedure which predicts the breathing trace of the patient, acquiring for sufficient time to create a 4D acquisition image, optimising the dose to the patient while still capturing sufficient detail.
 ## CBCT
+
 ## Photon-Counting
 
