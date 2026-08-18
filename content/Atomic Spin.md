@@ -18,8 +18,8 @@ Where B is the total magnetic field at the particle location and $\gamma$ is the
 
 This precession can be visualised using various classical equivalents, such as gyroscopes, basketballs, or driedels.
 ![[spinAnimation.gif]]
-If we consider the many spins that are in any given voxel of space they will be distributed isotropically.  Their individual spins will be at random phases so the only magnetisation in the unexcited state is in the longitudinal direction, given they aren't directly measured it isn't correct to discuss individual spins as being in the spin up or down state, but as a function of temperature the ratio of these can be described using a boltzmann distribution.
-> $$\frac{N_\uparrow}{N_\downarrow} = \exp\left(\frac{\hbar \gamma B_0}{kT}\right)$$
+If we consider the many spins that are in any given voxel of space they will be distributed isotropically.  Their individual spins will be at random phases so the only magnetisation in the unexcited state is in the longitudinal direction, given they aren't directly measured it isn't correct to discuss individual spins as being in the spin up or down state, but as a function of temperature the ratio of these can be described using a Boltzmann distribution.
+ $$\frac{N_\uparrow}{N_\downarrow} = \exp\left(\frac{\hbar \gamma B_0}{kT}\right)$$
 
 During excitation more spins are put into the spin-down state than the spin-up state, this is a population inversion state which has a hypothetically "negative" temperature, so will only last during the excitation period, after which the spin will de-excite.
 
@@ -30,7 +30,7 @@ This excitation is done using a radiofrequency pulse with a magnetic component r
 This de-excitation of the spins from a spin-down to a spin-up state within the volume is what creates the $T_1$ of the image.  This decay is known as spin lattice relaxation, it can be modelled using the equation
 >$$M_z(t)=M_0(1-e^{-t/T_1})$$
 
-![[Pasted image 20260817095130.png]]
+![[T1 relaxaiosn.png]]
 Title: [A review of normal tissue hydrogen NMR relaxation times and relaxation mechanisms from 1-100 MHz: dependence on tissue type, NMR frequency, temperature, species, excision, and age]()
 Authors: P. A. Bottomley, T. H. Foster, R. E. Argersinger, L. M. Pfeifer
 Year: 1984

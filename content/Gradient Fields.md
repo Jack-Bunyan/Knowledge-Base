@@ -10,7 +10,7 @@ The [[K-Space]] map formed by the [[Atomic Spin|Atomic Spin's]] of the patient w
 
 To encode spatial information into the signal that is produced by the spins, 3 different encoding methods are used: slice selection, only exciting a select region; frequency encoding, altering the frequency of the produced signals over space; and phase encoding, altering the phase of the produced signals over space.
 
-![[Pasted image 20260817110019.png]]
+![[typical sequence image.png]]
 
 Title: [Sequences - Radiology Cafe](https://www.radiologycafe.com/frcr-physics-notes/mr-imaging/sequences/)
 Authors: 
@@ -26,7 +26,7 @@ This can be used outside of the region that is being imaged such as in [[Arteria
 ![[Figure_Frequency-Encode.gif]]
 Frequency encoding is done during the acquisition stage of the image.  While the radiofrequency coils are receiving the signal from the excited spins, a gradient field is applied to the volume that varies across the slice, this means that spins in different locations will contribute different different frequency sine waves to the signal.  Similarly to the slice selection gradient, prior to application of frequency encoding, it is ran in reverse so that at the time of image acquisition there is no phase difference from the frequency encoding gradient.
 
-While there arent many fancy things done with frequency encoding specifically, the slight differences in the frequencies that are already present within the image enable the use of techniques such as [[dixon]] for fat-water imaging, or [[spectroscopy]] to image other elements within the image. 
+While there aren't many fancy things done with frequency encoding specifically, the slight differences in the frequencies that are already present within the image enable the use of techniques such as [[dixon]] for fat-water imaging, or [[spectroscopy]] to image other elements within the image. 
 Imaging a patient at multiple bandwidths can be used to suppress metal artefacts within the image, with sequences such as Mavric
 
 Title: [MRI Near Metallic Implants Using MAVRIC SL: Initial Clinical Experience at 3T](https://pmc.ncbi.nlm.nih.gov/articles/PMC4323867/)

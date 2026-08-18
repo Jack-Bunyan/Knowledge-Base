@@ -52,7 +52,7 @@ Iodinated contrast is frequently used within CAT imaging, this is used because i
 # QA
 ## CTDI and DLP
 The key [[dose]] metrics for CAT scans are CTDI and Dose Length Product (DLP).
-![[Pasted image 20260813161131.png]]
+![[CTDI graph diagram.png]]
 The measurement of charge measured by the farmer chamber gives the value.
 > $Q\propto\int_0^LD(x)dx$ 
 
