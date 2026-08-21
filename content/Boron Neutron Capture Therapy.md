@@ -44,7 +44,9 @@ The failure of these trials were likely a result of two components, first is the
 
 After the shutdown of BNCT work in the US the majority of boron therapy research was conducted in Japan(Hiroshi Hatanaka), this was done using a synthesised compound rather than the previously used boronic acid.  This has a sulfhydryl group which is expects to bind well to tumours.  Use of this compound in Glioblastoma patients was very successful, though the technology available meant that there was a limitation to only 6cm depth tumours., with key findings of Hatanaka's work being that the neutron delivery system required improvement.  With deuterium water potentially being used to increase the treatable depths.
 
-
+>"An important progress in this period however was the realization that BNCT as
+a novel tumor therapy should follow the normal procedures of evidence-based med-
+icine. " >>>>wut
 
 
 
@@ -71,3 +73,7 @@ Authors: H. Hatanaka
 Year: 1990
 DOI: 10.1007/978-1-4684-5802-2_2
 
+Title: [Advances in Boron Neutron Capture Therapy]()
+Authors: Mansoor Ahmed, Diego Alberti, Saverio Altieri, Asano T., Iiro Auterinen, Roberto Bedogni, Oleg Belyakov, Clément Besnard-Vauterin, Silva Bortolussi, Benoit Busser, Jacek Capala, Chen Y.-W, Fong-In Chou, Ciraj O., Cruikshanck G., Alejandra Dagrosa, Annamaria Deagostino, Simonetta Geninatti Crich, Francesco Giammarile, Tsuchida K.
+Year: 2023
+DOI: 
